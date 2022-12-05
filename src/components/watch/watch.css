@@ -1,0 +1,23 @@
+.containerWatch {
+  display: block;
+  justify-content: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+span {
+  color: rgb(23, 96, 36);
+}
+.btn {
+  margin: 5px;
+}
+.b1 {
+  background: green;
+}
+.b2 {
+  background: red;
+}
+.b3 {
+  background: yellow;
+}
