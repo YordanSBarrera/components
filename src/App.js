@@ -1,4 +1,5 @@
 import "./App.css";
+import Dimensiones from "./components/dimension/dimension";
 import { FuncList } from "./components/nameList/funcList";
 import Watch from "./components/watch/watch";
 
@@ -10,6 +11,7 @@ function App() {
         <FuncList />
       </div>
       <div className="element"><Watch/></div>
+      <div className="element"><Dimensiones/></div>
     </div>
   );
 }
